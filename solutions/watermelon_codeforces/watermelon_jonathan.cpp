@@ -14,9 +14,9 @@ int main()
     scanf("%d", &w);
 
     if (w <= 2)
-        printf("No");
+        printf("NO");
     else if (w % 2 == 0)
-        printf("Yes");
+        printf("YES");
     else
-        printf("No");
+        printf("NO");
 }
